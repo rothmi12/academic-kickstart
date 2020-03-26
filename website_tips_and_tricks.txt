@@ -1,9 +1,36 @@
 # Tips and tricks for github.io website
 
-# 1. Open the Roth_Website Project in R-studio
+# A few reminders:
+# /Users/rothmitc/Roth_Website/My_Website is where everything is located
+
+# 1. Open academic.Rproj in R-studio
 
 # 2. To toggle different pre-filled sections on home page on and off:
 #	- Go to Content -> Home
 #	- Open whatever section you want to toggle on or off (ex. projects.md)
+# - To test whether or not the toggle worked, view the edited website locally
+#   - Enter Terminal, type 'hugo server'
+#   - Open a Chrome tab, go to 'http://localhost:1313/'
+#   - As long as 'hugo server' is running, all changes made in R-studio will be rendered in real time on Chrome
 
-# 3.
+# 3. In order to update the actual rothmi12.github.io website...
+# - Remember, making changes in R-studio means you're making changes to the local git repository (macbook)
+# - You can use the 'hugo server' trick above to see all the changes you're making. But when you're done...
+# - You need to use git to add, commit, and push the changes you made to the remote git repository (github)
+#   - Go to /Users/rothmitc/Roth_Website/My_Website in Terminal. Enter the following commands:
+#     - git add .
+#     - git commit -m "<COMMIT NOTE GOES HERE>" #example "Updated publications"
+#     - git push -u origin master
+#     - hugo
+#     - cd public
+#     - git add .
+#     - git commit -m "<COMMIT NOTE GOES HERE>" #example "Updated publications"
+#     - git push -u origin master
+
+
+
+##########################################################################################
+#     HELPFUL DIAGRAM CAN BE FOUND HERE:
+#     https://dev.to/mollynem/git-github--workflow-fundamentals-5496
+#     https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png
+##########################################################################################

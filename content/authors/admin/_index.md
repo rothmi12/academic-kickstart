@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Genetics, with Plant Pathology dual major
+  - course: Ph.D. in Genetics and Plant Pathology
     institution: Michigan State University
     year: 2019
   - course: B.S. in Cell and Molecular Biology
@@ -68,4 +68,6 @@ email: ""
 #- Visitors
 ---
 
-I grew up on a farm in rural Michigan, and while I hated chores as a kid, I later found my passion for agriculture with a different spin. Through genetics and cell biology, I'm interested in how plants grow, develop, and respond to environmental stresses, particularly plant pathogens. 
+I grew up on a farm in rural Michigan, but did not have the same passion for farming that my father has. Nonetheless, I learned a lot about farming as a kid, particularly about all of the challenges of farming. In college, I found a way to merge my farming background with my emerging interests in genetics and cell biology through plant research. 
+
+Broadly speaking, my research interests are understanding how organisms interacct with other organisms, and what factors affect those interactions. More specifically, I'm interested in how plants responde to pathogens, and how pathogens respond to plants. Questions that drive my curiosity are; what causes a successful plant defense response? What causes a successful pathogen infection? How do farming practices and weather events affect plant diseases?  
