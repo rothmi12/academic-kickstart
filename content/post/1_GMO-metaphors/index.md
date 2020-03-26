@@ -1,0 +1,26 @@
+---
+title: A Brief Overview of Genetic Modification through Metaphors
+date: 2018-03-05
+math: false
+diagram: false
+image:
+  placement: 3
+  caption: 'Image credit: [**beyond-gm.org**](https://beyond-gm.org/gene-editing-a-gmo-by-any-other-name/)'
+---
+
+Hey everyone, thanks for stumbling on this blog. This is my first post, and it really stems from a discussion I had with a fellow student recently about herbicides in agriculture (more on that topic in a later post). As scientists, both of us have studied the intricacies of genetics and understand how genetic modifications work, and how they can change an organism's features. It's really fascinating how genetics works, and the powerful potential it has to solve problems, both inside and outside of agriculture. 
+
+All living things (plants, animals, fungi, etc.) have DNA. A common DNA analogy is with blueprints. DNA is similar to the blueprint of a house. DNA is not a house, but it has all of the information needed to build one. Many blueprints have common features, like a roof, a basement, and a front door. Similarly, some DNA is common among all living things. Some blueprints have more specific features found in more specific groups of houses like an attached garage, walk in closets, or hot tub. Similarly, some DNA is common among groups of organisms, like plants or animals, but not both. Finally, some blueprints have specific instructions for something so unique, it is only found in three or four houses in the world. DNA that is common only to a few unique species is also this way.
+
+So what's with all the fuss about genetic modifications? People change blueprints to houses all the time. Well, I think it boils down to this: blueprints, when executed,  form a stationary, permanent, non-being object. DNA, when executed, forms a living thing that can grow, develop, react, and respond. Since an executed DNA life-form takes on all of these active characteristics, it is considered "natural", and ought not be changed or tainted. But the fact of the matter is, blueprints can be changed, and the result of the change can significantly impact the outcome. Adding a crocodile-filled moat around a house might increase the property value to some who value security, but it may decrease property value to others who value the safety of their children playing in the yard. Changes to DNA need to be viewed the same way - how will the outcome be beneficial, and how might it be harmful?
+
+So how is all of this done? DNA is something we inherit, we're born with it, so how can it be changed? Here, I'll refer to a different analogy; computers. If you've found your way onto this website, I'll assume you know a thing or two about how computers work. There are some foundational parts of a computer that you probably don't know much about - the processor, motherboard, hard drive, kernel, etc. These foundational parts are a lot like DNA. You may have heard of it, but you're not exactly sure what they do or why they're important. What you do know is that double-clicking an icon on your desktop will open the application, which is something you can actually work with. This process of launching an application from your hard drive is a lot like a cell expressing a copy of RNA (an application) from a DNA template (hard drive). When the application finally launches, you can begin using it, to execute tasks. In a similar way, RNA (an application) is translated into a protein (that can execute tasks). 
+
+[That last part of the analogy is a bit of stretch, I know. If you have suggestions for explaining it better, let me know in the comments below!]
+
+Scientists discovered how to transfer DNA from one organism to another by studying a bacterial plant pathogen (_Agrobacterium tumefaciens_) that evolved the ability to add it's own DNA into a plant cell. Think of this as a bacteria containing a flash drive. It can make a copy of part of its DNA (hard drive) and transfer it (unplug the flash drive) into another organism (plugging it into another computer). Here, the DNA can work the same way it did in the bacteria, just like Microsoft Word works the same way on many computers. The total DNA is different between the two organisms (the computers have different hard drives), but some of the DNA is the same such that both can express the DNA as RNA (run the application) and make a functioning protein (perform a task).
+
+The toughest part about Genetics is all of the jargon. In this blog, I'd like to present things in as simple terms as possible - not to be condescending, but to be understandable and approachable. You'll notice that I never used the word "gene", even though the whole blog is about genetics and DNA. It makes things more difficult to write, but I hope simplifying the terms makes it easier to read. For those that are interested in an exact definition, a gene is a piece DNA that gets copied into RNA and translated into a functioning protein. All genes are DNA, but not all DNA are genes!
+
+There are a lot of details the I left out, which are essential for physically performing genetic modifications. There are a lot of great (peer reviewed) resources out there if you're interested in the details, the most comprehensive one that I like is [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC150518/). 
+

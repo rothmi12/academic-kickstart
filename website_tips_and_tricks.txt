@@ -1,0 +1,9 @@
+# Tips and tricks for github.io website
+
+# 1. Open the Roth_Website Project in R-studio
+
+# 2. To toggle different pre-filled sections on home page on and off:
+#	- Go to Content -> Home
+#	- Open whatever section you want to toggle on or off (ex. projects.md)
+
+# 3.
