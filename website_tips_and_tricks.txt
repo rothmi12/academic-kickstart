@@ -12,6 +12,9 @@
 #   - Enter Terminal, type 'hugo server'
 #   - Open a Chrome tab, go to 'http://localhost:1313/'
 #   - As long as 'hugo server' is running, all changes made in R-studio will be rendered in real time on Chrome
+# - NOTE: After you toggle something on or off, you need to make sure that now becomes a clickable option across your header
+#   - To do this go to config -> _default -> menus.toml
+#   - Add a new [main] category, and make sure the "url" links to the same name of the file you toggled on or off
 
 # 3. In order to update the actual rothmi12.github.io website...
 # - Remember, making changes in R-studio means you're making changes to the local git repository (macbook)

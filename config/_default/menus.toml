@@ -5,22 +5,22 @@
 
 [[main]]
   name = "Home"
-  url = "#home"
+  url = "#1_about"
   weight = 10
 
 [[main]]
   name = "Research"
-  url = "#research"
+  url = "#2_research"
   weight = 20
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "#3_publications"
   weight = 30
 
 [[main]]
-  name = "About Me"
-  url = "#about"
+  name = "Teaching"
+  url = "#4_teaching"
   weight = 40
 
 [[main]]
@@ -28,9 +28,7 @@
   url = "files/MGR_CV_full.pdf"
   weight = 50
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+  name = "Contact"
+  url = "#9_contact"
+  weight = 60

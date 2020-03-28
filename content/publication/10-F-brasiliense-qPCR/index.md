@@ -7,7 +7,7 @@ authors:
 - Jacobs, J.L.
 - Griffin, A.
 - Chilvers, M.I.
-date: "2020"
+date: "2020-01-01"
 doi: "10.1094/PDIS-01-19-0016-RE"
 
 # Schedule page publish date (NOT publication's date).

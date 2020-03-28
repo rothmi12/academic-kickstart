@@ -12,7 +12,7 @@ authors:
 - TerAvest, D.
 - Weebadde, P.
 - Kramer, D.M.
-date: "2016"
+date: "2016-10-01"
 doi: "10.1098/rsos.160592"
 
 # Schedule page publish date (NOT publication's date).
