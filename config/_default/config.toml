@@ -10,7 +10,7 @@ title = "Mitchell G. Roth"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "rothmi12.github.io/"
-canonifyURLs = false
+canonifyURLs = true
 relativeURLs = false
 
 # Enter a copyright notice to display in the site footer.
