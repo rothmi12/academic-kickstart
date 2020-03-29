@@ -9,7 +9,7 @@ authors:
 - Cianzio, S.R.
 - Chilvers, M.I. 
 date: "2018-02-12"
-doi: "10.1007/s00122-018-3063-0"
+doi: "doi.org/10.1007/s00122-018-3063-0"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

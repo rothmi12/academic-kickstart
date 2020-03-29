@@ -6,7 +6,7 @@ authors:
 - admin
 - Chilvers, M.I.
 date: "2018-10-25"
-doi: "10.1094/PDIS-03-18-0384-RE"
+doi: "doi.org/10.1094/PDIS-03-18-0384-RE"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

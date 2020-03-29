@@ -7,7 +7,7 @@ authors:
 - Byrne, A.M.
 - Chilvers, M.I.
 date: "2019-08-13"
-doi: "10.1094/PHYTO-02-19-0040-R"
+doi: "doi.org/10.1094/PHYTO-02-19-0040-R"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
