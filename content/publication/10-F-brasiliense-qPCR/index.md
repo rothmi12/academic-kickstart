@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*Plant Disease*"
 publication_short: ""
 
-abstract: 
+abstract: Species within clade 2 of the Fusarium solani species complex (FSSC) are significant pathogens of dry bean (Phaseolus vulgaris) and soybean (Glycine max), causing root rot and/or sudden death syndrome (SDS). These species are morphologically difficult to distinguish and often require molecular tools for proper diagnosis to a species level. Here, a Taq-Man probe-based quantitative PCR (qPCR) assay was developed to distinguish Fusarium brasiliense from other closely related species within clade 2 of the FSSC. The assay displays high specificity against close relatives and high sensitivity, with a detection limit of 100 fg. This assay was able to detect F. brasiliense from purified mycelia, infected dry bean roots, and soil samples throughout Michigan. When multiplexed with an existing qPCR assay specific to Fusarium virguliforme, accurate quantification of both F. brasiliense and F. virguliforme was obtained, which can facilitate accurate diagnoses and identify coinfections with a single reaction. The assay is compatible with multiple qPCR thermal cycling platforms and will be helpful in providing accurate detection of F. brasiliense. Management of root rot and SDS pathogens in clade 2 of the FSSC is challenging and must be done proactively, because no midseason management strategies currently exist. However, accurate detection can facilitate management decisions for subsequent growing seasons to successfully manage these pathogens.
 
 # Summary. An optional shortened abstract.
 summary: 

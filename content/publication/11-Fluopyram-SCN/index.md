@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "*Plant Disease*"
 publication_short: ""
 
-abstract: 
+abstract: The soybean cyst nematode (SCN), Heterodera glycines Ichinohe, causes significant damage to soybean production annually. Fluopyram is a fungicide commonly used in soybean seed treatments intended to control soilborne fungal pathogens; however, recent studies have also suggested inhibitory effects on SCN. We examined the effects of a fluopyram seed treatment, ILeVO, on SCN reproduction, sudden death syndrome (SDS) development, and yield in a 3-year field study. Overall, fluopyram had a significant effect on yield (P = 0.046) and end-of-season SCN eggs and second-stage juveniles (Pf, P = 0.033) but no significant effect on SCN reproduction (Rf) or SDS disease index (P > 0.05). Post hoc tests indicated that fluopyram increased yield and suppressed SCN quantities. However, Rf was consistently greater than 1 whether or not the seed was treated with fluopyram, indicating that SCN populations were still increasing in the presence of fluopyram. A follow-up greenhouse study indicated that fluopyram reduced SCN relative to nontreated controls, as observed in the field, but only reduced SCN DNA within roots of a susceptible cultivar. These results indicate that fluopyram can suppress SCN quantities relative to nontreated seed but may not successfully reduce nematode populations without the use of additional management strategies.
 
 # Summary. An optional shortened abstract.
 summary: 
