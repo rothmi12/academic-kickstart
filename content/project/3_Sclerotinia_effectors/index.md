@@ -9,7 +9,7 @@ date: "2020-03-01"
 external_link: ""
 
 image:
-  caption: Scleroinia stem rot of soybean
+  caption: Sclerotinia stem rot of soybean
   focal_point: Smart
 
 links:
@@ -32,4 +32,4 @@ slides: ""
 
 Microbes and plants interact by releasing recognizing different molecules. In plant pathology, pathogen-secreted molecules are often referred to as "effectors" because they effect plant physiology to establish an infection. However, pathogens also secrete factors that are not always classified as effectors, such as cell-wall degrading enzymes and secondary metabolites (reviewed in [Stergiopoulos and de Wit 2009](https://doi.org/10.1146/annurev.phyto.112408.132637)). Despite their categorization, the mechanisms by which pathogen-secreted molecules effect plants are very interesting to many researchers like me.
 
-Using a time-course transcriptome dataset, I have helped our research group identify candidate effector genes in _S. sclerotiorum_. Additionally, a CRISPR/Cas9 mediated transformation method developed by colleagues have facilitated the rapid, efficient transformation of _S. sclerotiorum_, allowing for characterization of genes involved in fungal development and pathogenicity on soybean and other plants. One effector that I am currently characterizes is particularly interesting because it appears to have two functions, able to act as a cell wall degrading enzime _and_ as an inducer of plant cell death.  
+Using a time-course transcriptome dataset, I have helped our research group identify candidate effector genes in _S. sclerotiorum_. Additionally, a CRISPR/Cas9 mediated transformation method developed by colleagues have facilitated the rapid, efficient transformation of _S. sclerotiorum_, allowing for characterization of genes involved in fungal development and pathogenicity on soybean and other plants. One effector that I am currently characterizes is particularly interesting because it appears to have two functions, able to act as a cell wall degrading enzyme _and_ as an inducer of plant cell death.  
