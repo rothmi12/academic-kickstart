@@ -9,7 +9,7 @@ authors:
 - admin
 - Chilvers, M.I.
 date: "2018-10-01"
-doi: "doi.org/10.3389/fmicb.2018.02335"
+doi: "10.3389/fmicb.2018.02335"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -34,7 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.3389/fmicb.2018.02335"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''

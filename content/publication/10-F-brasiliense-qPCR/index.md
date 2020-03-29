@@ -8,7 +8,7 @@ authors:
 - Griffin, A.
 - Chilvers, M.I.
 date: "2020-01-01"
-doi: "doi.org/10.1094/PDIS-01-19-0016-RE"
+doi: "10.1094/PDIS-01-19-0016-RE"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -33,7 +33,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.1094/PDIS-01-19-0016-RE"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''

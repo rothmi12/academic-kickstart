@@ -13,7 +13,7 @@ authors:
 - Brown, K.
 - Lynch, J.P. 
 date: "2019-06-13"
-doi: "doi.org/10.1093/jxb/erz271"
+doi: "10.1093/jxb/erz271"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -38,7 +38,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.1093/jxb/erz271"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''

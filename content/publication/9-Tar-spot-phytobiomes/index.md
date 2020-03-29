@@ -10,7 +10,7 @@ authors:
 - Bonito, G.
 - Chilvers, M.I. 
 date: "2019-08-26"
-doi: "doi.org/10.1094/PBIOMES-03-19-0017-R"
+doi: "10.1094/PBIOMES-03-19-0017-R"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -35,7 +35,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.1094/PBIOMES-03-19-0017-R"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''

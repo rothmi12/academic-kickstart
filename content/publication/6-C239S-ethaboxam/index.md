@@ -6,7 +6,7 @@ authors:
 - admin
 - Chilvers, M.I.
 date: "2019-10-30"
-doi: "doi.org/10.1094/PHYTO-01-19-0022-R"
+doi: "10.1094/PHYTO-01-19-0022-R"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -31,7 +31,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.1094/PHYTO-01-19-0022-R"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''

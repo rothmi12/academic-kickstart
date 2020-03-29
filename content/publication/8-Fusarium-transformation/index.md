@@ -4,7 +4,7 @@ authors:
 - admin
 - Chilvers, M.I.
 date: "2019-05-15"
-doi: "doi.org/10.1186/s40694-019-0070-0"
+doi: "10.1186/s40694-019-0070-0"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -29,7 +29,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.1186/s40694-019-0070-0"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''

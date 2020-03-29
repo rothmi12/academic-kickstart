@@ -13,7 +13,7 @@ authors:
 - Weebadde, P.
 - Kramer, D.M.
 date: "2016-10-01"
-doi: "doi.org/10.1098/rsos.160592"
+doi: "10.1098/rsos.160592"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -38,7 +38,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.1098/rsos.160592"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''

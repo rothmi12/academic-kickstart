@@ -9,7 +9,7 @@ authors:
 - Warner. F.
 - Chilvers, M.I.
 date: "2020-03-10"
-doi: "doi.org/10.1094/PDIS-04-19-0874-RE"
+doi: "10.1094/PDIS-04-19-0874-RE"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -34,7 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "doi.org/10.1094/PDIS-04-19-0874-RE"
+url: ""
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''
