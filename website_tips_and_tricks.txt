@@ -37,3 +37,11 @@
 #     https://dev.to/mollynem/git-github--workflow-fundamentals-5496
 #     https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png
 ##########################################################################################
+
+
+
+#Helpful tip for URLs...
+#Set your config.toml file to have this:
+# - baseurl = "rothmi12.github.io/"
+# - canonifyURLs = true
+# - relativeURLs = true
