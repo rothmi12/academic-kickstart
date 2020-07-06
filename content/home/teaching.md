@@ -71,7 +71,7 @@ date_format = "01/01/2006"
   [[item]]
   organization = "Michigan State University"
   organization_url = ""
-  title = "Mentored Teaching Project"
+  title = "Incorporating short written summaries to assess understanding of genetics concepts (Mentored Teaching Project)"
   #url = ""
   certificate_url = ""
   date_start = "2019-01-01"
