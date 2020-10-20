@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoctoral Research Associate
+    institution: University of Wisconsin - Madison
+    year: Current
   - course: Ph.D. in Genetics and Plant Pathology
     institution: Michigan State University
     year: 2019
