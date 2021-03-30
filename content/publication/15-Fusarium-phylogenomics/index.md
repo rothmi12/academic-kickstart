@@ -1,5 +1,5 @@
 ---
-title: "Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic *Fusarium* that includes the *Fusarium solani* species complex"
+title: "Phylogenomic analysis of a 55.1 kb 19-gene dataset resolves a monophyletic Fusarium that includes the Fusarium solani species complex"
 authors:
 - Geiser, D.M.
 - et al
