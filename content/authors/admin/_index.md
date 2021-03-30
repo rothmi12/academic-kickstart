@@ -10,19 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Assistant Professor of Molecular Mycology (Fall 2021)
+
 
 # Organizations/Affiliations
 organizations:
-- name: University of Wisconsin - Madison
-  url: "https://plantpath.wisc.edu/"
+- name: The Ohio State University
+  url: "https://plantpath.osu.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A farm kid turned scientist, trying to make agriculture easier.
 
 interests:
-- Plant Pathology
-- Genetics
+- Molecular Plant Pathology
+- Fungal & Oomycete Genetics
+- Disease Management
 - Agriculture
 
 education:
@@ -30,10 +32,10 @@ education:
   - course: Postdoctoral Research Associate
     institution: University of Wisconsin - Madison
     year: Current
-  - course: Ph.D. in Genetics and Plant Pathology
+  - course: Ph.D., Genetics & Plant Pathology
     institution: Michigan State University
     year: 2019
-  - course: B.S. in Cell and Molecular Biology
+  - course: B.S., Cell and Molecular Biology
     institution: Grand Valley State University
     year: 2014
 
