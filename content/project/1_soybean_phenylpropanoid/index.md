@@ -3,7 +3,7 @@ title: Engineering the Phenylpropanoid Pathway for Disease Resistance
 summary: Intermediate compounds in the phenylpropanoid pathway have been described as having anti-fungal activity and accumulate in soybeans resistant to _Sclerotinia sclerotiorum_.
 tags:
 - Plant Resistance
-date: "2019-06-01"
+date: "2022-06-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

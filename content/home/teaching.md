@@ -25,9 +25,9 @@ date_format = "01/01/2006"
   title = "Certificate in College Teaching"
   url = ""
   certificate_url = ""
-  date_start = "2020-03-29"
+  date_start = "2020-07-28"
   date_end = ""
-  description = "<i>pending approval</i><br /><br />The following Core Teaching Competencies, Mentored Teaching Project, and Teaching Philosophy were developed as part of a training program to earn a Certificate in College Teaching from Michigan State University. "
+  description = "The following Core Teaching Competencies, Mentored Teaching Project, and Teaching Philosophy were developed as part of a training program to earn a Certificate in College Teaching from Michigan State University. "
 
 [[item]]
   organization = "Michigan State University"

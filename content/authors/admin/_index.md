@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Mitchell G. Roth
+name: Molecular Mycology Lab
 
 # Username (this should match the folder name)
 authors:
@@ -10,34 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Molecular Mycology (Fall 2021)
+role: The Ohio State University
 
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
+- name: Ohio Agricultural Research & Development Center, Wooster, OH
   url: "https://plantpath.osu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A farm kid turned scientist, trying to make agriculture easier.
+#bio: A farm kid turned scientist, trying to make agriculture easier.
 
-interests:
-- Molecular Plant Pathology
-- Fungal & Oomycete Genetics
-- Disease Management
-- Agriculture
+#interests:
+#- Molecular Plant Pathology
+#- Fungal & Oomycete Genetics
+#- Disease Management
+# Agriculture
 
-education:
-  courses:
-  - course: Postdoctoral Research Associate
-    institution: University of Wisconsin - Madison
-    year: Current
-  - course: Ph.D., Genetics & Plant Pathology
-    institution: Michigan State University
-    year: 2019
-  - course: B.S., Cell and Molecular Biology
-    institution: Grand Valley State University
-    year: 2014
+#education:
+#  courses:
+#  - course: Postdoctoral Research Associate
+#    institution: University of Wisconsin - Madison
+#    year: Current
+#  - course: Ph.D., Genetics & Plant Pathology
+#    institution: Michigan State University
+#    year: 2019
+#  - course: B.S., Cell and Molecular Biology
+#    institution: Grand Valley State University
+#    year: 2014
 
 
 # Social/Academic Networking
@@ -73,6 +73,10 @@ email: ""
 #- Visitors
 ---
 
-I grew up on a farm in rural Michigan, but did not have the same passion for farming that my father has. Nonetheless, I learned a lot about farming as a kid, particularly about all of the challenges of farming. In college, I found a way to merge my farming background with my emerging interests in genetics and cell biology through plant research. 
+The Roth Lab at Ohio State University was established in Fall of 2021. We are a group of scientists aspiring to learn more about fungi and oomycetes, and how they interact with plants. We primarily study fungal and oomycete plant pathogens at a molecular level in order to gain a better understanding of what genes, proteins, and metabolites are involved in causing plant diseases. By gaining a deeper knowledge of the mechanisms deployed by fungi and oomycetes to induce disease susceptibility, we hope to identify potential avenues of intervention to prevent disease from occuring.   Research projects also include in-field research to understand the impacts of current disease management practices on crop health and yield. We hope that future field projects will also include functional validation of enhanced resistance of genetically engineered crops developed in the lab. 
 
-Broadly speaking, my research interests are understanding how organisms interact with other organisms, and what factors affect those interactions. More specifically, I'm interested in how plants respond to pathogens, and how pathogens respond to plants. Questions that drive my curiosity are; what causes a successful plant defense response? What causes a successful pathogen infection? How do farming practices and weather events affect plant diseases?  
+Research is a team effort, and we are always looking to build our talented team of scientists. If you are interested in joining us as a graduate student, postdoc, or technician, please reach out to PI Dr. Mitchell Roth at roth.741@osu.edu, and include the following:
+1) A *brief* description of your research experience and interests. 
+2) An explanation as to why you want to join our lab, specifically listing what you hope to gain out of your experiences here, and how it fits into your desired scientific career journey.
+3) A description about what you intend to bring to the lab, specifically identifying how your training and skillset can enhance the experience of others in our team. 
+4) A copy of your CV

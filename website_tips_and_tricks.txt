@@ -9,12 +9,17 @@
 #	- Go to Content -> Home
 #	- Open whatever section you want to toggle on or off (ex. projects.md)
 # - To test whether or not the toggle worked, view the edited website locally
-#   - Enter Terminal, type 'hugo server'
+#   - Enter Terminal, navigate to /Users/rothmitc/Roth_Website/My_Website
+#   - Type 'hugo server'
 #   - Open a Chrome tab, go to 'http://localhost:1313/'
 #   - As long as 'hugo server' is running, all changes made in R-studio will be rendered in real time on Chrome
 # - NOTE: After you toggle something on or off, you need to make sure that now becomes a clickable option across your header
 #   - To do this go to config -> _default -> menus.toml
 #   - Add a new [main] category, and make sure the "url" links to the same name of the file you toggled on or off
+
+# - To add a new person:
+#   - Navigate content --> authors, and duplicate one of the existing folders
+#   - Note: "admin" is the description for the general web page
 
 # 3. In order to update the actual rothmi12.github.io website...
 # - Remember, making changes in R-studio means you're making changes to the local git repository (macbook)
