@@ -50,3 +50,6 @@
 # - baseurl = "rothmi12.github.io/"
 # - canonifyURLs = true
 # - relativeURLs = true
+
+Github Token current as of Jan 2022
+  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
