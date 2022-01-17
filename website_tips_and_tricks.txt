@@ -26,11 +26,13 @@
 # - You can use the 'hugo server' trick above to see all the changes you're making. But when you're done...
 # - You need to use git to add, commit, and push the changes you made to the remote git repository (github)
 #   - Go to /Users/rothmitc/Roth_Website/My_Website in Terminal. Enter the following commands:
+#     - git remote set-url origin https://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@github.com/rothmi12/academic-kickstart.git
 #     - git add .
 #     - git commit -m "<COMMIT NOTE GOES HERE>" #example "Updated publications"
 #     - git push -u origin master
 #     - hugo
 #     - cd public
+#     - git remote set-url origin https://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@github.com/rothmi12/rothmi12.github.io.git
 #     - git add .
 #     - git commit -m "<COMMIT NOTE GOES HERE>" #example "Updated publications"
 #     - git push -u origin master
@@ -51,8 +53,7 @@
 # - canonifyURLs = true
 # - relativeURLs = true
 
-Github Token current as of Jan 2022
-  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
 
-git remote set-url origin https://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@github.com/rothmi12/<repo>.git
+
+
 
