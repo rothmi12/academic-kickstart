@@ -53,3 +53,6 @@
 
 Github Token current as of Jan 2022
   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
+
+git remote set-url origin https://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@github.com/rothmi12/<repo>.git
+

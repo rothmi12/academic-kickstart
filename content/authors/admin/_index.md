@@ -50,7 +50,7 @@ social:
   link: "mailto:mitch.roth91@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mitchroth12
+  link: https://twitter.com/ohiomycete
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=G1wsKeMAAAAJ&hl=en
