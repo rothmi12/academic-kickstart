@@ -20,13 +20,23 @@
 # - To add a new person:
 #   - Navigate content --> authors, and duplicate one of the existing folders
 #   - Note: "admin" is the description for the general web page
+#   - Current options are: "Principal Investigators",
+#                          "Grad Students",
+#                          "Postdocs",
+#                          "Visiting Scholars",
+#                          "Technicians",
+#                          "Undergraduates"
 
 # 3. In order to update the actual rothmi12.github.io website...
 # - Remember, making changes in R-studio means you're making changes to the local git repository (macbook)
 # - You can use the 'hugo server' trick above to see all the changes you're making. But when you're done...
 # - You need to use git to add, commit, and push the changes you made to the remote git repository (github)
-#   - In a web browser, login to your Github account. Go to Settings -> Developer Settings -> Personal Access Tokens
+#   - In a web browser, login to your Github account.
+      - To log in to Github requires 2-factor authentication via the Authenticator app on your phone.
+    - Once logged in, go to Settings -> Developer Settings -> Personal Access Tokens
 #     - Generate a new access token, and replace <token> with this token in the Terminal code below
+#     - I know, it's annoying. Do it anyways.
+#
 #   - In Terminal, go to /Users/rothmitc/Roth_Website/My_Website. Enter the following commands:
 #     - git remote set-url origin https://<token>@github.com/rothmi12/academic-kickstart.git
 #     - git add .
@@ -54,8 +64,4 @@
 # - baseurl = "rothmi12.github.io/"
 # - canonifyURLs = true
 # - relativeURLs = true
-
-
-
-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
 
