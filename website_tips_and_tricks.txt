@@ -1,15 +1,12 @@
 # Tips and tricks for github.io website
 
-# A few reminders:
-# /Users/rothmitc/Roth_Website/My_Website is where everything is located
-
 # 1. Open academic.Rproj in R-studio
 
 # 2. To toggle different pre-filled sections on home page on and off:
 #	- Go to Content -> Home
 #	- Open whatever section you want to toggle on or off (ex. projects.md)
 # - To test whether or not the toggle worked, view the edited website locally
-#   - Enter Terminal, navigate to /Users/rothmitc/Roth_Website/My_Website
+#   - Enter Terminal, navigate to the folder that contains your website
 #   - Type 'hugo server'
 #   - Open a Chrome tab, go to 'http://localhost:1313/'
 #   - As long as 'hugo server' is running, all changes made in R-studio will be rendered in real time on Chrome
