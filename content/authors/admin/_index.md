@@ -75,6 +75,9 @@ email: ""
 
 The Roth Lab at Ohio State University was established in Fall of 2021. We are a group of scientists aspiring to learn more about fungi and oomycetes, and how they interact with plants. We primarily study fungal and oomycete plant pathogens at a molecular level in order to gain a better understanding of what genes, proteins, and metabolites are involved in causing plant diseases. By gaining a deeper knowledge of the mechanisms deployed by fungi and oomycetes to induce disease susceptibility, we hope to identify potential avenues of intervention to prevent disease from occuring.   Research projects also include in-field research to understand the impacts of current disease management practices on crop health and yield. We hope that future field projects will also include functional validation of enhanced resistance of genetically engineered crops developed in the lab. 
 
+![](authors/admin/groupphoto.jpg)
+Lab photo, October 2022. From left to right: Angie Nanes (Lab Manager), Annika Pratt, Tim Siegenthaler, Mitch Roth, Nina Ward, Tiffanna Ross
+
 Research is a team effort, and we are always looking to build our talented team of scientists. If you are interested in joining us as a graduate student, postdoc, or technician, please reach out to PI Dr. Mitchell Roth at roth.741@osu.edu, and include the following:
 1) A *brief* description of your research experience and interests. 
 2) An explanation as to why you want to join our lab, specifically listing what you hope to gain out of your experiences here, and how it fits into your desired scientific career journey.

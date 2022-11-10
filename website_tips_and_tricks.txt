@@ -8,7 +8,7 @@
 # - To test whether or not the toggle worked, view the edited website locally
 #   - Enter Terminal, navigate to the folder that contains your website
 #   - Type 'hugo server'
-#   - Open a Chrome tab, go to 'http://localhost:1313/'
+#   - Open a Chrome tab, go   to 'http://localhost:1313/'
 #   - As long as 'hugo server' is running, all changes made in R-studio will be rendered in real time on Chrome
 # - NOTE: After you toggle something on or off, you need to make sure that now becomes a clickable option across your header
 #   - To do this go to config -> _default -> menus.toml
@@ -18,8 +18,8 @@
 #   - Navigate content --> authors, and duplicate one of the existing folders
 #   - Note: "admin" is the description for the general web page
 #   - Current options are: "Principal Investigators",
-#                          "Grad Students",
 #                          "Postdocs",
+#                          "Grad Students",
 #                          "Visiting Scholars",
 #                          "Technicians",
 #                          "Undergraduates"
