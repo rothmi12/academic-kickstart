@@ -3,7 +3,7 @@ title: "Convergent evolution of C239S mutation in Pythium spp. β-tubulin coinci
 authors:
 - Noel, Z.A.
 - Sang, H.
-- admin
+- Roth, M.G.
 - Chilvers, M.I.
 date: "2019-10-30"
 doi: "10.1094/PHYTO-01-19-0022-R"

@@ -2,7 +2,7 @@
 title: "Sensitive and specific qPCR and nested RT-PCR assays for the detection of Tobacco streak virus in soybean"
 authors:
 - Zambrana-Echevarria, C.
-- admin
+- Roth, M.G.
 - Dasgupta, R.
 - German, T.L.
 - Groves, C.L.

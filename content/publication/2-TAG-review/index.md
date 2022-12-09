@@ -2,7 +2,7 @@
 title: "Integration of Sudden Death Syndrome Resistance Loci in the Soybean Genome"
 authors:
 - Chang, H.-X.
-- admin
+- Roth, M.G.
 - Wang, D.
 - Lightfoot, D.A.
 - Hartman, G.L.

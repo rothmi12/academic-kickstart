@@ -1,7 +1,7 @@
 ---
 title: "Integrated Management of Important Soybean Pathogens of the United States in Changing Climate"
 authors:
-- admin
+- Roth, M.G.
 - Webster, R.W.
 - Mueller, D.S.
 - Chilvers, M.I.

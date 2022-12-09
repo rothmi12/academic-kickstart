@@ -6,7 +6,7 @@ authors:
 - Jacobs, J.L.
 - Chang, H.-X.
 - Wang, J.
-- admin
+- Roth, M.G.
 - Chilvers, M.I.
 date: "2018-10-01"
 doi: "10.3389/fmicb.2018.02335"

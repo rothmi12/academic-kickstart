@@ -3,7 +3,7 @@ title: "Temporal dynamics of Fusarium virguliforme colonization of soybean roots
 authors:
 - Wang, J.
 - Jacobs, J.L.
-- admin
+- Roth, M.G.
 - Chilvers, M.I.
 date: "2018-10-25"
 doi: "10.1094/PDIS-03-18-0384-RE"

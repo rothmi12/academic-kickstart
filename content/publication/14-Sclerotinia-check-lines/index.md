@@ -2,7 +2,7 @@
 title: "Identification of Soybean (Glycine max) Check Lines for Evaluating Genetic Resistance to Sclerotinia Stem Rot"
 authors:
 - Webster, R.W.
-- admin
+- Roth, M.G.
 - Reed, H.
 - Mueller, B.
 - Groves, C.L.

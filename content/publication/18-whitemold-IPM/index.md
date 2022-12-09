@@ -2,7 +2,7 @@
 title: "Integration of Row Spacing, Seeding Rates, and Fungicide Application for Control of Sclerotinia Stem Rot in *Glycine max*"
 authors:
 - Webster, R.W.
-- admin
+- Roth, M.G.
 - Mueller, B.
 - Muellr, D.S.
 - Chilvers, M.I.

@@ -1,7 +1,7 @@
 ---
 title: "Fluopyram Suppresses Population Densities of Heterodera glycines in Field and Greenhouse Studies in Michigan"
 authors:
-- admin
+- Roth, M.G.
 - Jacobs, J.L.
 - Napieralski, S.
 - Byrne, A.M.

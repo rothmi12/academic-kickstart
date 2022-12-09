@@ -7,7 +7,7 @@ authors:
 - Osei-Bonsu, I.
 - Hoh, D.
 - Chilvers, M.I.
-- admin
+- Roth, M.G.
 - Bi, K.
 - TerAvest, D.
 - Weebadde, P.

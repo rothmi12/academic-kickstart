@@ -1,7 +1,7 @@
 ---
 title: "Predicting Soybean Yield and Sudden Death Syndrome Development using At-planting Risk Factors"
 authors:
-- admin
+- Roth, M.G.
 - Noel, Z.A.
 - Wang, J.
 - Byrne, A.M.

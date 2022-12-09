@@ -1,7 +1,7 @@
 ---
 title: "Diagnostic qPCR Assay to Detect Fusarium brasiliense, a causal agent of soybean Sudden Death Syndrome and Root Rot of Dry Bean"
 authors:
-- admin
+- Roth, M.G.
 - Sang, H.
 - Oudman, K.
 - Jacobs, J.L.

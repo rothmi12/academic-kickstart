@@ -7,7 +7,7 @@ authors:
 - Hall, B.T.
 - Van Gansbeke, B.
 - Mather, D.E.
-- admin
+- Roth, M.G.
 - Chilvers, M.I.
 - Guo, X.
 - Brown, K.

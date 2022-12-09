@@ -1,7 +1,7 @@
 ---
 title: "A Protoplast Generation and Transformation Methods for Soybean Sudden Death Syndrome Causal Agents Fusarium virguliforme and F. brasiliense"
 authors:
-- admin
+- Roth, M.G.
 - Chilvers, M.I.
 date: "2019-05-15"
 doi: "10.1186/s40694-019-0070-0"

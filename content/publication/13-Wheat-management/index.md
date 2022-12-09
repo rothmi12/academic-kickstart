@@ -1,7 +1,7 @@
 ---
 title: "Wheat Grain and Straw Yield, Grain Quality, and Disease Benefits Associated with Increased Management Intensity"
 authors:
-- admin
+- Roth, M.G.
 - Mourtzinis, S.
 - Gaska, J.M.
 - Mueller, B.
