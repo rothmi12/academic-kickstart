@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Molecular Mycology Lab
+name: Mitchell Roth, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: The Ohio State University
+role: Personal Website
 
 
 # Organizations/Affiliations
 organizations:
-- name: Ohio Agricultural Research & Development Center, Wooster, OH
-  url: "https://plantpath.osu.edu"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: A farm kid turned scientist, trying to make agriculture easier.
@@ -50,7 +50,7 @@ social:
   link: "mailto:mitch.roth91@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ohiomycete
+  link: https://twitter.com/mitch_roth12
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=G1wsKeMAAAAJ&hl=en
@@ -73,13 +73,6 @@ email: ""
 #- Visitors
 ---
 
-The Roth Lab at Ohio State University was established in Fall of 2021. We are a group of scientists aspiring to learn more about fungi and oomycetes, and how they interact with plants. We primarily study fungal and oomycete plant pathogens at a molecular level in order to gain a better understanding of what genes, proteins, and metabolites are involved in causing plant diseases. By gaining a deeper knowledge of the mechanisms deployed by fungi and oomycetes to induce disease susceptibility, we hope to identify potential avenues of intervention to prevent disease from occuring.   Research projects also include in-field research to understand the impacts of current disease management practices on crop health and yield. We hope that future field projects will also include functional validation of enhanced resistance of genetically engineered crops developed in the lab. 
+[Welcome / home page content goes here]
 
-![](authors/admin/groupphoto.jpg)
-Lab photo, October 2022. From left to right: Angie Nanes (Lab Manager), Annika Pratt, Tim Siegenthaler, Mitch Roth, Nina Ward, Tiffanna Ross
-
-Research is a team effort, and we are always looking to build our talented team of scientists. If you are interested in joining us as a graduate student, postdoc, or technician, please reach out to PI Dr. Mitchell Roth at roth.741@osu.edu, and include the following:
-1) A *brief* description of your research experience and interests. 
-2) An explanation as to why you want to join our lab, specifically listing what you hope to gain out of your experiences here, and how it fits into your desired scientific career journey.
-3) A description about what you intend to bring to the lab, specifically identifying how your training and skillset can enhance the experience of others in our team. 
-4) A copy of your CV
+![](path/to/photo.jpg)

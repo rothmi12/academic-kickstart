@@ -29,7 +29,7 @@
 # - You can use the 'hugo server' trick above to see all the changes you're making. But when you're done...
 # - You need to use git to add, commit, and push the changes you made to the remote git repository (github)
 #   - In a web browser, login to your Github account.
-      - To log in to Github requires 2-factor authentication via the Authenticator app on your phone.
+      - To log in to Github requires 2-factor authentication via the Authenticator app on your phone, or text message.
     - Once logged in, go to Settings -> Developer Settings -> Personal Access Tokens
 #     - Generate a new access token, and replace <token> with this token in the Terminal code below
 #     - I know, it's annoying. Do it anyways.
